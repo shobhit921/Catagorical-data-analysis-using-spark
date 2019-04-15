@@ -1,2 +1,2 @@
-# Catagorical-data-analysis-using-spark
-A basic projet to using spark library in R to analyse a dataset (For beginners)
+
+Dataset and code for Categorical Data Analysis using Spark and R studio 
