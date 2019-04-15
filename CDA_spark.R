@@ -4,7 +4,7 @@
 starttime <- Sys.time()
 
 #set working directory
-setwd("C:/Users/jayalakshmi/Desktop/MEMS/APA/DMC_2017_task")
+setwd("Your pwd here")
 
 # Get auxillary functions 
 #source("helper.R")
